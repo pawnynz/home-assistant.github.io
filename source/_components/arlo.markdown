@@ -29,7 +29,7 @@ Configuration variables:
 - **username** (*Required*): The username for accessing your Arlo account.
 - **password** (*Required*): The password for accessing your Arlo account.
 
-It is recommended to create a dedicated user on Arlo website to be used within Home Assistant and then share your Arlo cameras.
+It is recommended to create a dedicated user on Arlo website to be used within Home Assistant and then share your Arlo cameras.  Ensure you enable "Allow Access Rights" on this account.
 
 Finish its configuration by visiting the [Arlo sensor page](/components/sensor.arlo/) or [Arlo camera page](/components/camera.arlo/) or [Arlo control panel page](/components/alarm_control_panel.arlo/).
 
